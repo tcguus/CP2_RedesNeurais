@@ -1,10 +1,8 @@
 # Checkpoint 2 - Redes Neurais com Keras
  
-##Integrantes:
-##555562 Gustavo Camargo de Andrade
-
-##558373 Leonardo Cesar Rodrigues Nascimento
-
+#Integrantes:
+#555562 Gustavo Camargo de Andrade
+#558373 Leonardo Cesar Rodrigues Nascimento
 ##555451 Rodrigo Souza Mantovanello
  
 ## Exercício 1 - Classificação Multiclasse
